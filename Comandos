@@ -1,1 +1,28 @@
+// COMANDOS DO SQL Server
+
+// Comandos Principais:
+// NOT NULL
+// UNIQUE 
+// PRIMARY KEY
+// FOREIGN KEY 
+// CHECK
+// DEFAULT
+
+// Tipos de Dados:
+// CHAR (n)
+// VARCHAR (n)
+// NCHAR (n)
+// NVARCHAR (n)
+// BIT
+// TINYINT
+// SMALLINT
+// INT
+// BIGINT
+// REAL
+// DATETIME
+// SMALLDATETIME
+// DATE
+// TIME
+// TEXT
+// MONEY 
 
